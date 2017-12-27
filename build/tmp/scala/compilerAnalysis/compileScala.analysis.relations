@@ -1,0 +1,54 @@
+products:
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\Application$.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\Application$delayedInit$body.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\Application.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\BootConfig.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\BootConfig.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\DbPopulator.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\domain\Hotel.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\service\HotelRepository.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\service\HotelRepository.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\web\HotelController.class
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\RootController.scala -> C:\Users\toss\dev\spring-boot-scala-web\build\classes\main\mvctest\web\RootController.class
+binary dependencies:
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot\1.5.3.RELEASE\5fedde3489afd5dbd82f9122aaec4c9f6da3d564\spring-boot-1.5.3.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\BootConfig.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\BootConfig.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-autoconfigure\1.5.3.RELEASE\b2b4d4a704f039bf22787cc412b1dd34741821fc\spring-boot-autoconfigure-1.5.3.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot\1.5.3.RELEASE\5fedde3489afd5dbd82f9122aaec4c9f6da3d564\spring-boot-1.5.3.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework.data\spring-data-commons\1.13.3.RELEASE\f8be49f9564b7b8736d8f1ebb55bbf4997c29514\spring-data-commons-1.13.3.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.3.8.RELEASE\9d39133bb80e13d643bfefd731fe86cab3aa2bd7\spring-beans-4.3.8.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.8.RELEASE\944073ac58ab78b78a7694d2c53d4ae9f634c815\spring-context-4.3.8.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.hibernate.javax.persistence\hibernate-jpa-2.1-api\1.0.0.Final\5e731d961297e5a07290bfaf3db1fbc8bbbf405a\hibernate-jpa-2.1-api-1.0.0.Final.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.hibernate\hibernate-validator\5.3.5.Final\622a9bcef2eed6d41b5b8e0662c36212009e375\hibernate-validator-5.3.5.Final.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\service\HotelRepository.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\service\HotelRepository.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework.data\spring-data-commons\1.13.3.RELEASE\f8be49f9564b7b8736d8f1ebb55bbf4997c29514\spring-data-commons-1.13.3.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\javax.validation\validation-api\1.1.0.Final\8613ae82954779d518631e05daa73a6a954817d5\validation-api-1.1.0.Final.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework.data\spring-data-commons\1.13.3.RELEASE\f8be49f9564b7b8736d8f1ebb55bbf4997c29514\spring-data-commons-1.13.3.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.3.8.RELEASE\9d39133bb80e13d643bfefd731fe86cab3aa2bd7\spring-beans-4.3.8.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.8.RELEASE\944073ac58ab78b78a7694d2c53d4ae9f634c815\spring-context-4.3.8.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\RootController.scala -> C:\Program Files\Java\jdk1.8.0_40\jre\lib\rt.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\RootController.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.2\fe9780170207ebdabd4ac5bb335c82bd0aead480\scala-library-2.12.2.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\RootController.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.8.RELEASE\944073ac58ab78b78a7694d2c53d4ae9f634c815\spring-context-4.3.8.RELEASE.jar
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\RootController.scala -> C:\Users\toss\.gradle\caches\modules-2\files-2.1\org.springframework\spring-web\4.3.8.RELEASE\ec1b675c2e234b0c776d36ed56c691520030026f\spring-web-4.3.8.RELEASE.jar
+source dependencies:
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\service\HotelRepository.scala
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\service\HotelRepository.scala -> C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\service\HotelRepository.scala
+external dependencies:
+class names:
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> mvctest.Application
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> mvctest.Application$
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\Application.scala -> mvctest.Application$delayedInit$body
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\BootConfig.scala -> mvctest.BootConfig
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\DbPopulator.scala -> mvctest.DbPopulator
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\domain\Hotel.scala -> mvctest.domain.Hotel
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\service\HotelRepository.scala -> mvctest.service.HotelRepository
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\HotelController.scala -> mvctest.web.HotelController
+   C:\Users\toss\dev\spring-boot-scala-web\src\main\scala\mvctest\web\RootController.scala -> mvctest.web.RootController
